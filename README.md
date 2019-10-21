@@ -65,6 +65,7 @@ $ PORT=5100 node index.js
 
 ## Documentation
 
+You can find the [API Documentation](https://github.com/cljazouli/NestelliteMonitoring/wiki/API-Documentation) on the Wiki.
 
 
 
