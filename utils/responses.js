@@ -1,3 +1,4 @@
+// Defining the possible Http responses
 module.exports.RESPONSES = {
     // Returned whenever the average altitude of the satellite goes below 160km for more than 1 minute.
     WARNING: {

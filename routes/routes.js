@@ -1,6 +1,10 @@
+// Import third party components
 let cors = require('cors');
 
+// Import Endpoint manager with the defined routes
 let endpointsManager = require('./../utils/endpoints');
+
+// Import the controllers
 let statsController = require('./../controllers/stats');
 let healthController = require('./../controllers/health');
 
